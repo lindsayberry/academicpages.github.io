@@ -1,5 +1,5 @@
 ---
-title: "Line-of-Sight pursuit in Monotone and Scallop Polygons"
+title: "Line-of-Sight Pursuit in Monotone and Scallop Polygons"
 collection: publications
 permalink: /publication/2015-08-18-pursuit
 date: 2015-08-18
