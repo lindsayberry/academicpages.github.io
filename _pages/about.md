@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Test
+I'm a Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/) working on designing innovative and adaptive clinical trials. Prior to joining Berry, I completed my PhD in [Statistical Science](http://stat.duke.edu/) at [Duke University](https://www.duke.edu/).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My graduate research with [Mike West](http://www2.stat.duke.edu/~mw/) and [84.51&deg;](https://www.8451.com/) was on large scale Bayesian forecasting in the context of consumer sales forecasting. My research touched upon topics in forecasting and time series analysis, Bayesian dynamic models, high-dimensional computation, decision analysis, statistical computing, and more!
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+From 2011 to 2015, I attended the University of Texas at Austin, where I received my BS in Mathematics and was a member of the Dean's Scholars.
